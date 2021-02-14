@@ -20,7 +20,7 @@ public class Principal { //classe que contém o método principal
 	public static void main(String[] args) { //esse é o método principal
 		System.out.println("Olá amigo!\nQual é o seu nome?");
 
-		//Ler uma string do console usando a biblioteca Scanner
+		//Teste de push
 		Scanner in = new Scanner(System.in);
 		String nome = in.nextLine();
 				
